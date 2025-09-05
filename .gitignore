@@ -1,0 +1,12 @@
+# Ignore one file
+index-original.html
+
+# Ignore all .log files
+*.log
+
+# Ignore everything in assets/tmp folder
+assets/tmp/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
